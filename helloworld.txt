@@ -1,0 +1,6 @@
+test git reset HEAD <file>...
+
+first modify is here
+
+second modify is here
+third modify is here
